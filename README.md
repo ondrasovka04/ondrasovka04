@@ -1,7 +1,7 @@
 ### Hi, I'm Ondřej 👋
 
 Full-stack software engineer from Prague with ~4 years of experience across product,
-enterprise and banking environments. Currently pursuing a Master's degree at FIT CTU.
+enterprise and banking environments.
 
 **Tech:** TypeScript · Node.js · React · Java · Spring · .NET · SQL
 
